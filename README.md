@@ -1,0 +1,1 @@
+# SecureOps-Platform-a-DevSecOps-reference-pipeline-for-Dapr-microservices-on-Kubernetes
